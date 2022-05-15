@@ -31,4 +31,4 @@ for filename in os.listdir('./cogs'):
 
 
 
-lmbot.run('OTc1MzkxOTM1ODIyOTY2ODQ1.G4QLK_.zvguJIerF9U12sWFyKAGH1PoCOEWCciX6pISTM')
+lmbot.run('token')
