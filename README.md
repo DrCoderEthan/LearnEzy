@@ -1,7 +1,8 @@
 #LearnEzy
 
 
-##💡 Inspiration💡
+##💡Inspiration💡
+
 We concentrated on building a practical solution for mental health concerns and education throughout the brainstorming process. This application was inspired by students worldwide who were unable to access ideal circumstances in their online classrooms or had too much schoolwork to prioritize, making them agitated. We decided to use discord to set up a learning environment that combines the best of both worlds and uses each feature to its fullest potential.
 
 
