@@ -1,20 +1,25 @@
 #LearnEzy
 
-Set Up Student Teacher Roles
+`Set Up Student Teacher Roles`
 
 ![Bot-View](https://cdn.discordapp.com/attachments/885938706568077323/981846298502254592/unknown.png)
 
 
-Create Assigments 
+`Create Assigments`
 
 ![Assignment-View](https://cdn.discordapp.com/attachments/885938706568077323/981846522507456532/unknown.png)
 
 
-Public Study Groups
+`Public Study Groups`
 
 ![Groups](https://cdn.discordapp.com/attachments/885938706568077323/981846955711950859/unknown.png)
 
 ![Groups-2](https://cdn.discordapp.com/attachments/885938706568077323/981847151233597480/unknown.png)
+
+`Doubt Sessions`
+
+Have a interactive Doubt Session throught Wonderful user interface throught slash commands
+![interface](https://cdn.discordapp.com/attachments/885938706568077323/981849204739678268/unknown.png)
 
 
 
